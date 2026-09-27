@@ -1,0 +1,12 @@
+{
+  "title": "Anyone There? Evaluating whether customer-service AI agents trap users who need a human",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "A trapped-user eval for AI support agents. Research phase: threat model, hypotheses H1–H5, related work and citation metadata. No code yet; the evaluation harness is built from October 2026.",
+  "creators": [
+    { "name": "Resonantly-Feral" }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["ai-safety", "llm-evaluation", "human-in-the-loop", "customer-service", "human-handoff"]
+}
