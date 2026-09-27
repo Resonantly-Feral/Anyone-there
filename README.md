@@ -8,7 +8,7 @@
 
 Most evaluations of AI support agents reward an agent for *holding the line*: resisting repeated user pressure. That is the right behaviour when the user is the threat. But when the pressure is a request for a human, and the bot is the only door, holding the line becomes the harm. This project evaluates that case.
 
-**Status:** research phase (September 2026). The evaluation harness is being built at HackwithKualaLampur on 08/10/2026. The research, threat model, and hypotheses in this repo predate the build; all code is written at or after the event.
+**Status:** research phase (September 2026). The evaluation harness is built from October 2026. The research, threat model, and hypotheses in this repo predate the build; all code is written after 27/09/2026.
 
 ---
 
