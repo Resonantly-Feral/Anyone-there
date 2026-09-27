@@ -6,6 +6,7 @@ authors:
 repository-code: "https://github.com/Resonantly-Feral/anyone-there"
 license: CC-BY-4.0
 date-released: "2026-09-27"
+doi: 10.5281/zenodo.22999197
 keywords:
   - ai-safety
   - llm-evaluation

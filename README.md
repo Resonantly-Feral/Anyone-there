@@ -1,5 +1,7 @@
 # Anyone There?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22999197.svg)](https://doi.org/10.5281/zenodo.22999197)
+
 *A trapped-user eval for AI support agents.*
 
 **Can a customer-service AI trap someone who needs a human?**
