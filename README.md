@@ -103,7 +103,7 @@ Sources and details: [RELATED_WORK.md](RELATED_WORK.md).
 
 ## Motivating case
 
-*[Optional. The author's own late-night case, told as a system problem.]*
+A food-delivery order that nobody could close, a delivery driver demanding compensation, and support phone lines that went unanswered at night. The customer's own AI assistant supplied phrases designed to trigger escalation, and the platform's bot still wouldn't escalate. Measured the way Threat B benchmarks measure it, that bot held the line. For the customer, it was the failure.
 
 ## Repository layout
 
@@ -116,7 +116,7 @@ CITATION.cff       citation metadata
 
 ## Licence
 
-- Code: [MIT / Apache-2.0: choose one]
+- Code: [MIT](LICENSE)
 - Writing and research (README, RELATED_WORK, HYPOTHESES): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Citation
