@@ -4,7 +4,7 @@
 
 *A trapped-user eval for AI support agents.*
 
-*By Stepphrnie Davina ([Resonantly-Feral](https://github.com/Resonantly-Feral))*
+*By Stepphrnie Davina ([Resonantly-Feral](https://github.com/Resonantly-Feral)) · ORCID [0009-0003-5636-4751](https://orcid.org/0009-0003-5636-4751)*
 
 **Can a customer-service AI trap someone who needs a human?**
 

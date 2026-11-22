@@ -4,7 +4,7 @@
   "publication_type": "other",
   "description": "A trapped-user eval for AI support agents. Research phase: threat model, hypotheses H1–H5, related work and citation metadata. No code yet; the evaluation harness is built from October 2026.",
   "creators": [
-    { "name": "Stepphrnie Davina (Resonantly-Feral)" }
+    { "name": "Stepphrnie Davina (Resonantly-Feral)", "orcid": "0009-0003-5636-4751" }
   ],
   "access_right": "open",
   "license": "cc-by-4.0",
