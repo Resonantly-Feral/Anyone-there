@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "Anyone There? Evaluating whether customer-service AI agents trap users who need a human"
 authors:
-  - alias: "Resonantly-Feral"
+  - given-names: "Stepphrnie Davina"
+    alias: "Resonantly-Feral"
 repository-code: "https://github.com/Resonantly-Feral/anyone-there"
 license: CC-BY-4.0
 date-released: "2026-09-27"

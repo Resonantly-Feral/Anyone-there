@@ -4,6 +4,8 @@
 
 *A trapped-user eval for AI support agents.*
 
+*By Stepphrnie Davina ([Resonantly-Feral](https://github.com/Resonantly-Feral))*
+
 **Can a customer-service AI trap someone who needs a human?**
 
 > A boundary is only safe when an exit exists outside it.
